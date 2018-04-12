@@ -1,7 +1,7 @@
 DebouncedSwitch KEYWORD1
 
 attach_on_switch_close_callback KEYWORD2
-attach_on_switch_open_callback KEYWORD2
+attach_on_switch_open_callback  KEYWORD2
 
-update KEYWORD2
-closed KEYWORD2
+update  KEYWORD2
+closed  KEYWORD2
